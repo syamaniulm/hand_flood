@@ -6,6 +6,16 @@
 
 Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman genangan banjir pada suatu titik koordinat, sampai dimanakah kira-kira sebaran genangannya? Dan seperti apa sebaran kedalamannya?<br>
 
+<html>
+  <body>
+    <div>
+      <a href="https://github.com/syamaniulm/geebook/blob/main/Ebook_Inderaja_Python_GEE_Vol1_Syamani.pdf">
+        <img src="./img/cover_gee_vol1.jpg" alt="Ebook Volume 1 Link" style="width:200px;">
+      </a>
+    </div>
+  </body>
+</html>
+
 Dengan mengintegrasikan antara data topografis, yaitu Height Above Nearest Drainage (HAND) dan data koordinat kedalaman genangan banjir lapangan, pertanyaan-pertanyaan seperti di atas dapat terjawab. Dengan kata lain, dengan menggunakan data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi luas dan sebaran kedalaman genangan banjir.
 
 
