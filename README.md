@@ -34,4 +34,4 @@ Kode program ini merupakan proyek eksperimental. Sehingga masih memerlukan valid
 
 ### Petunjuk Sitasi
 
-Penggunaan HAND di dalam dokumen resmi wajib mengutip literatur ini: <a href="[https://github.com/syamaniulm/geebook/blob/main/Ebook_Inderaja_Python_GEE_Vol1_Syamani.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599)">
+Penggunaan HAND di dalam dokumen resmi wajib mengutip literatur ini: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599">
