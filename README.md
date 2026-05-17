@@ -9,8 +9,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 <html>
   <body>
     <div>
-      <a href="https://github.com/syamaniulm/geebook/blob/main/Ebook_Inderaja_Python_GEE_Vol1_Syamani.pdf">
-        <img src="./img/cover_gee_vol1.jpg" alt="Ebook Volume 1 Link" style="width:200px;">
+       <img src="flood_depth_measurement.png" alt="Flood Depth Measurement Illustration">
       </a>
     </div>
   </body>
