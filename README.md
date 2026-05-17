@@ -45,23 +45,29 @@ FDND merupakan hasil rasterisasi untuk setiap CA dari:<br>
 
 Raster ```FDND``` akan memiliki nilai yang seragam (satu nilai) untuk setiap CA. Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.<br>
 
+### Contoh output:
+
 <html>
   <body>
     <div>
-       <img src="flood_depth_output.png" alt="Flood Depth Output"  style="width:600px;">
+       <img src="flood_depth_output.png" alt="Flood Depth Output"  style="width:720px;">
       </a>
     </div>
   </body>
 </html>
 
+Estimasi sebaran kedalaman genangan banjir<br>
+
 <html>
   <body>
     <div>
-       <img src="flood_area_table.png" alt="Flood Area Table"  style="width:600px;">
+       <img src="flood_area_table.png" alt="Flood Area Table"  style="width:720px;">
       </a>
     </div>
   </body>
 </html>
+
+Tabel luas genangan banjir untuk setiap desa/kelurahan<br>
 
 ### Persyaratan
 
