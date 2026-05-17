@@ -25,6 +25,16 @@ Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal d
 
 Data Catchment Area (CA) dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Semakin kecil luasan CA, hasil estimasi akan semakin teliti. Misalnya 25k akan lebih teliti dibanding 50k. Akan tetapi, semakin teliti luasan CA yang digunakan, konsekuensinya akan semakin banyak titik-titik banjir dari lapangan diperlukan. Sebab setiap wilayah CA sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
 
+## Konsep Model
+
+Formula yang digunakan untuk estimasi sebaran kedalaman banjir adalah:<br>
+
+```Raster kedalaman banjir di suatu CA = Raster kedalaman banjir yang diukur dari permukaan sungai terdekat - Raster HAND seluruh wilayah CA tersebut```<br>
+
+Dimana:<br>
+
+```Raster kedalaman banjir yang diukur dari permukaan sungai terdekat``` merupakan hasil rasterisasi dari ```Kedalaman banjir hasil pengukuran lapangan + HAND di titik pengukuran``` untuk setiap CA. Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.
+
 ### Persyaratan
 
 Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
