@@ -37,11 +37,11 @@ FD = Flood Depth, yaitu raster hasil estimasi kedalaman genangan banjir<br>
 FDND = Flood Depth from Nearest Drainage, yaitu raster kedalaman banjir yang diukur dari permukaan sungai terdekat<br>
 HAND = Raster HAND<br>
 
-Dan<br>
+Dan:<br>
 
 FDND merupakan hasil rasterisasi untuk setiap CA dari:<br>
 
-```Kedalaman banjir hasil pengukuran lapangan + HAND di titik pengukuran```<br>
+```Titik kedalaman banjir hasil pengukuran lapangan + HAND di titik pengukuran tersebut```<br>
 
 Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.<br>
 
