@@ -31,3 +31,7 @@ Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
 ### Penafian
 
 Kode program ini merupakan proyek eksperimental. Sehingga masih memerlukan validasi di lapangan.
+
+### Petunjuk Sitasi
+
+Penggunaan HAND di dalam dokumen resmi wajib mengutip literatur ini: <a href="[https://github.com/syamaniulm/geebook/blob/main/Ebook_Inderaja_Python_GEE_Vol1_Syamani.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599)">
