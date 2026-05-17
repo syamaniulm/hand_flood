@@ -50,7 +50,7 @@ Raster ```FDND``` akan memiliki nilai yang seragam (satu nilai) untuk setiap CA.
 <html>
   <body>
     <div>
-       <img src="flood_depth_output.png" alt="Flood Depth Output"  style="width:720px;">
+       <img src="flood_depth_output.png" alt="Flood Depth Output"  style="width:600px;">
       </a>
     </div>
   </body>
@@ -61,7 +61,7 @@ Estimasi sebaran kedalaman genangan banjir<br>
 <html>
   <body>
     <div>
-       <img src="flood_area_table.png" alt="Flood Area Table"  style="width:720px;">
+       <img src="flood_area_table.png" alt="Flood Area Table"  style="width:600px;">
       </a>
     </div>
   </body>
