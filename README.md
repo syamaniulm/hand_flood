@@ -9,7 +9,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 <html>
   <body>
     <div>
-       <img src="flood_depth_measurement.png" alt="Flood Depth Measurement Illustration" style="width:600px;">
+       <img src="flood_depth_measurement.png" alt="Flood Depth Measurement Illustration">
       </a>
     </div>
   </body>
