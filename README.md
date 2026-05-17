@@ -12,3 +12,8 @@ Dengan mengintegrasikan antara data topografis, yaitu Height Above Nearest Drain
 ### Persyaratan:
 
 Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
+
+
+### Penafian:
+
+Kode program ini merupakan proyek eksperimental. Sehingga masih memerlukan validasi di lapangan.
