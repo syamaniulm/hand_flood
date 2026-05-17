@@ -27,13 +27,23 @@ Data Catchment Area (CA) dan HAND disediakan dalam 6 (enam) opsi berdasarkan ket
 
 ## Konsep Model
 
-Formula yang digunakan untuk estimasi sebaran kedalaman banjir adalah:<br>
+Formula yang digunakan untuk estimasi sebaran kedalaman banjir untuk setiap CA adalah:<br>
 
-```Raster kedalaman banjir di suatu CA = Raster kedalaman banjir yang diukur dari permukaan sungai terdekat - Raster HAND seluruh wilayah CA tersebut```<br>
+```FD = FDND - HAND```
 
 Dimana:<br>
 
-```Raster kedalaman banjir yang diukur dari permukaan sungai terdekat``` merupakan hasil rasterisasi dari ```Kedalaman banjir hasil pengukuran lapangan + HAND di titik pengukuran``` untuk setiap CA. Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.
+FD = Flood Depth, yaitu raster hasil estimasi kedalaman genangan banjir<br>
+FDND = Flood Depth from Nearest Drainage, yaitu raster kedalaman banjir yang diukur dari permukaan sungai terdekat<br>
+HAND = Raster HAND<br>
+
+Dan<br>
+
+FDND merupakan hasil rasterisasi untuk setiap CA dari:<br>
+
+```Kedalaman banjir hasil pengukuran lapangan + HAND di titik pengukuran```<br>
+
+Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.<br>
 
 ### Persyaratan
 
