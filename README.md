@@ -33,7 +33,12 @@ Dan:<br>
 
 FDND merupakan hasil rasterisasi untuk setiap CA dari:<br>
 
-$$arg max(Titik kedalaman banjir hasil pengukuran lapangan + HAND di titik pengukuran tersebut)$$
+$$arg max(GFD + HGFD)$$
+
+Dimana:<br>
+
+GFD = Ground Glood Depth, yaitu data titik koordinat kedalaman genangan banjir hasil pengukuran lapangan<br>
+HGFD = HAND at Ground Flood Depth, yaitu nilai HAND pada titik koordinat pengukuran kedalaman genangan banjir<br>
 
 Raster ```FDND``` akan memiliki nilai yang seragam (satu nilai) untuk setiap CA. Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.<br>
 
