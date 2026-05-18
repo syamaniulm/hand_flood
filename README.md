@@ -72,7 +72,7 @@ Estimasi sebaran kedalaman genangan banjir<br>
   </body>
 </html>
 
-Estimasi poligon (shapefile) sebaran genangan banjir<br>
+Poligon (shapefile) estimasi area tergenang banjir<br>
 
 <html>
   <body>
