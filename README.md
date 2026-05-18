@@ -21,7 +21,7 @@ Dengan mengintegrasikan antara data topografis, yaitu Height Above Nearest Drain
 
 Formula yang digunakan untuk estimasi sebaran kedalaman banjir untuk setiap Catchment Area (CA) adalah sebagai berikut:<br>
 
-```FD = FDND - HAND```
+$$FD = FDND - HAND$$
 
 Dimana:<br>
 
