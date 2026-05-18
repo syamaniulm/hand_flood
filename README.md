@@ -78,7 +78,9 @@ Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
 
 1. Kode program ini merupakan proyek eksperimental. Sehingga masih memerlukan validasi di lapangan.
 2. Data CA, HAND, dan wilayah administrasi sampai level desa/kelurahan tersedia untuk seluruh wilayah Indonesia. Sehingga model dan kode program ini (hanya) dapat digunakan di seluruh Indonesia.
+3. Data HAND dan CA diekstrak dari FABDEM (<a href="https://gee-community-catalog.org/projects/fabdem/">https://gee-community-catalog.org/projects/fabdem/</a>), sehingga akurasi dan ketelitian sangat ditentukan oleh akurasi dan ketelitian FABDEM.
 
 ### Petunjuk Sitasi
 
-Penggunaan HAND di dalam dokumen resmi wajib mengutip literatur ini: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599">https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599</a>
+1. Penggunaan HAND di dalam dokumen resmi wajib mengutip literatur ini: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599">https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599</a>
+2. Penggunaan FABDEM di dalam dokumen resmi wajib mengutip literatur ini: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac4d4f">https://iopscience.iop.org/article/10.1088/1748-9326/ac4d4f</a>
