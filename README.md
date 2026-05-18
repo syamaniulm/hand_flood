@@ -66,6 +66,17 @@ Estimasi sebaran kedalaman genangan banjir<br>
 <html>
   <body>
     <div>
+       <img src="flood_polygon_output.png" alt="Flood Polygon Output"  style="width:600px;">
+      </a>
+    </div>
+  </body>
+</html>
+
+Estimasi poligon (shapefile) sebaran genangan banjir<br>
+
+<html>
+  <body>
+    <div>
        <img src="flood_area_table.png" alt="Flood Area Table"  style="width:600px;">
       </a>
     </div>
