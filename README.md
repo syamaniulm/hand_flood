@@ -25,7 +25,7 @@ $$FD = FDND - HAND$$
 
 Dimana:<br>
 
-FD = Flood Depth, yaitu raster hasil estimasi kedalaman genangan banjir<br>
+$FD$ = Flood Depth, yaitu raster hasil estimasi kedalaman genangan banjir<br>
 FDND = Flood Depth from Nearest Drainage, yaitu raster kedalaman banjir yang diukur dari permukaan sungai terdekat<br>
 HAND = Raster HAND<br>
 
@@ -37,8 +37,8 @@ $$arg max(GFD + HGFD)$$
 
 Dimana:<br>
 
-GFD = Ground Glood Depth, yaitu data titik koordinat kedalaman genangan banjir hasil pengukuran lapangan<br>
-HGFD = HAND at Ground Flood Depth, yaitu nilai HAND pada titik koordinat pengukuran kedalaman genangan banjir<br>
+GFD = Ground Flood Depth, yaitu data titik koordinat dan kedalaman genangan banjir hasil pengukuran lapangan<br>
+HGFD = HAND at Ground Flood Depth, yaitu nilai HAND pada titik koordinat kedalaman genangan banjir<br>
 
 Raster ```FDND``` akan memiliki nilai yang seragam (satu nilai) untuk setiap CA. Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.<br>
 
