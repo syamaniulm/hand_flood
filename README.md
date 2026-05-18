@@ -19,7 +19,7 @@ Dengan mengintegrasikan antara data topografis, yaitu Height Above Nearest Drain
 
 ## Konsep Model
 
-Formula yang digunakan untuk estimasi sebaran kedalaman banjir untuk setiap CA adalah:<br>
+Formula yang digunakan untuk estimasi sebaran kedalaman banjir untuk setiap Catchment Area (CA) adalah sebagai berikut:<br>
 
 ```FD = FDND - HAND```
 
@@ -43,7 +43,7 @@ Jalankan file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Hand_B
 
 Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal degree, ```Lat``` yang berisi data lintang dalam decimal degree, dan ```Depth``` yang berisi data kedalaman banjir dalam satuan meter. Format penulisan huruf besar dan kecil untuk nama-nama kolom ini harus persis sebagaimana contoh. Jika ada perubahan format penulisan, maka harus ada penyesuaian pada beberapa bagian kode.<br>
 
-Data Catchment Area (CA) dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Semakin kecil luasan CA, hasil estimasi akan semakin teliti. Misalnya 25k akan lebih teliti dibanding 50k. Akan tetapi, semakin teliti luasan CA yang digunakan, konsekuensinya akan semakin banyak titik-titik banjir dari lapangan diperlukan. Sebab setiap wilayah CA sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
+Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Semakin kecil luasan CA, hasil estimasi akan semakin teliti. Misalnya 25k akan lebih teliti dibanding 50k. Akan tetapi, semakin teliti luasan CA yang digunakan, konsekuensinya akan semakin banyak titik-titik banjir dari lapangan diperlukan. Sebab setiap wilayah CA sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
 
 ### Contoh output:
 
@@ -76,7 +76,8 @@ Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
 
 ### Penafian
 
-Kode program ini merupakan proyek eksperimental. Sehingga masih memerlukan validasi di lapangan.
+1. Kode program ini merupakan proyek eksperimental. Sehingga masih memerlukan validasi di lapangan.
+2. Data CA, HAND, dan wilayah administrasi sampai level desa/kelurahan tersedia untuk seluruh wilayah Indonesia. Sehingga model dan kode program ini (hanya) dapat digunakan di seluruh Indonesia.
 
 ### Petunjuk Sitasi
 
