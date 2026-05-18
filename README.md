@@ -1,4 +1,4 @@
-<a target="_blank" href="https://colab.research.google.com/github.com/syamaniulm/hand_flood/blob/main/Hand_Based_Flood_Depth_Modeling_v1.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/syamaniulm/hand_flood/blob/main/Hand_Based_Flood_Depth_Modeling_v1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
