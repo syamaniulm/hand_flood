@@ -9,7 +9,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 <html>
   <body>
     <div>
-       <img src="flood_depth_measurement.png" alt="Flood Depth Measurement Illustration"  style="width:600px;">
+       <img src="./img/flood_depth_measurement.png" alt="Flood Depth Measurement Illustration"  style="width:600px;">
       </a>
     </div>
   </body>
@@ -55,7 +55,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
 <html>
   <body>
     <div>
-       <img src="flood_depth_output.png" alt="Flood Depth Output"  style="width:600px;">
+       <img src="./img/flood_depth_output.png" alt="Flood Depth Output"  style="width:600px;">
       </a>
     </div>
   </body>
@@ -66,7 +66,7 @@ Estimasi sebaran kedalaman genangan banjir<br>
 <html>
   <body>
     <div>
-       <img src="flood_polygon_output.png" alt="Flood Polygon Output"  style="width:600px;">
+       <img src="./img/flood_polygon_output.png" alt="Flood Polygon Output"  style="width:600px;">
       </a>
     </div>
   </body>
@@ -77,7 +77,7 @@ Poligon (shapefile) estimasi area tergenang banjir<br>
 <html>
   <body>
     <div>
-       <img src="flood_area_table.png" alt="Flood Area Table"  style="width:600px;">
+       <img src="./img/flood_area_table.png" alt="Flood Area Table"  style="width:600px;">
       </a>
     </div>
   </body>
