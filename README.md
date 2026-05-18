@@ -33,7 +33,7 @@ Dan:<br>
 
 FDND merupakan hasil rasterisasi untuk setiap CA dari:<br>
 
-```Titik kedalaman banjir hasil pengukuran lapangan + HAND di titik pengukuran tersebut```<br>
+$arg max(Titik kedalaman banjir hasil pengukuran lapangan + HAND di titik pengukuran tersebut)$<br>
 
 Raster ```FDND``` akan memiliki nilai yang seragam (satu nilai) untuk setiap CA. Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.<br>
 
