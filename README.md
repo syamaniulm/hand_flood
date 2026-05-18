@@ -78,7 +78,7 @@ Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
 
 1. Kode program ini merupakan proyek eksperimental. Sehingga masih memerlukan validasi di lapangan.
 2. Data CA, HAND, dan wilayah administrasi sampai level desa/kelurahan tersedia untuk seluruh wilayah Indonesia. Sehingga model dan kode program ini (hanya) dapat digunakan di seluruh Indonesia.
-3. Data HAND dan CA diekstrak dari FABDEM (<a href="https://gee-community-catalog.org/projects/fabdem/">https://gee-community-catalog.org/projects/fabdem/</a>), sehingga akurasi dan ketelitian sangat ditentukan oleh akurasi dan ketelitian FABDEM.
+3. Data CA dan HAND diekstrak dari FABDEM (<a href="https://gee-community-catalog.org/projects/fabdem/">https://gee-community-catalog.org/projects/fabdem/</a>), sehingga akurasi dan ketelitian CA dan HAND sangat ditentukan oleh akurasi dan ketelitian FABDEM.
 4. Data administrasi bersumber dari Badan Informasi Geospasial (BIG) di laman <a href="https://tanahair.indonesia.go.id/portal-web/">https://tanahair.indonesia.go.id/portal-web/</a>.
 
 ### Petunjuk Sitasi
