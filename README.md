@@ -15,11 +15,24 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
   </body>
 </html>
 
-Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest Drainage (HAND) dan data koordinat kedalaman genangan banjir lapangan, pertanyaan-pertanyaan seperti di atas dapat terjawab. Secara singkat, dengan menggunakan kode program ini, dan tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi luas dan sebaran kedalaman genangan banjir.<br>
+Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest Drainage (HAND) dan data koordinat kedalaman genangan banjir lapangan, pertanyaan-pertanyaan seperti di atas dapat terjawab.<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/hand_concept.png" alt="HAND Condept"  style="width:600px;">
+      </a>
+    </div>
+  </body>
+</html>
+
+Ilustrasi Konsep HAND<br>
+
+Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi luas dan sebaran kedalaman genangan banjir pada suatu Catchment Area (CA).<br>
 
 ## Konsep Model
 
-Formula yang digunakan untuk estimasi sebaran kedalaman banjir untuk setiap Catchment Area (CA) adalah sebagai berikut:<br>
+Formula yang digunakan untuk estimasi sebaran kedalaman banjir untuk setiap CA adalah sebagai berikut:<br>
 
 $$FD = FDND - HAND$$
 
