@@ -28,7 +28,7 @@ Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest 
 
 Ilustrasi Konsep HAND<br>
 
-Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi luas dan sebaran kedalaman genangan banjir pada suatu Catchment Area (CA).<br>
+Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi dan memetakan sebaran kedalaman genangan banjir pada suatu Catchment Area (CA).<br>
 
 ## Konsep Model
 
