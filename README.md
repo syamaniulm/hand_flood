@@ -50,7 +50,7 @@ Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal d
 
 Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Semakin kecil luasan CA, hasil estimasi akan semakin teliti. Misalnya 25k akan lebih teliti dibanding 50k. Akan tetapi, semakin teliti luasan CA yang digunakan, konsekuensinya akan semakin banyak titik-titik banjir dari lapangan diperlukan. Sebab setiap wilayah CA sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
 
-### Contoh output:
+### Contoh Output
 
 <html>
   <body>
