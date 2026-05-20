@@ -16,7 +16,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
   </body>
 </html>
 
-Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest Drainage (HAND) dan data koordinat kedalaman genangan banjir lapangan, pertanyaan-pertanyaan seperti di atas dapat terjawab.<br>
+<br>Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest Drainage (HAND) dan data koordinat kedalaman genangan banjir lapangan, pertanyaan-pertanyaan seperti di atas dapat terjawab.<br>
 
 <html>
   <body>
@@ -28,7 +28,7 @@ Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest 
   </body>
 </html>
 
-Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi dan memetakan sebaran kedalaman genangan banjir secara cepat pada suatu Catchment Area (CA).<br>
+<br>Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi dan memetakan sebaran kedalaman genangan banjir secara cepat pada suatu Catchment Area (CA).<br>
 
 ## Konsep Model
 
@@ -75,6 +75,8 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   </body>
 </html>
 
+<br>
+
 <html>
   <body>
     <div>
@@ -85,6 +87,8 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   </body>
 </html>
 
+<br>
+
 <html>
   <body>
     <div>
@@ -94,6 +98,8 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
     </div>
   </body>
 </html>
+
+<br>
 
 ### Persyaratan
 
