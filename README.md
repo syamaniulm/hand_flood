@@ -10,7 +10,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
   <body>
     <div>
        <img src="./img/flood_depth_measurement.png" alt="Flood Depth Measurement Illustration"  style="width:800px;"><br>
-       <figcaption>Ilustrasi pengukuran titik koordinat dan kedalaman banjir di lapangan</figcaption>
+       <figcaption><i>Ilustrasi pengukuran titik koordinat dan kedalaman banjir di lapangan</i></figcaption>
       </a>
     </div>
   </body>
