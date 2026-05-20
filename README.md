@@ -21,9 +21,10 @@ Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest 
 <html>
   <body>
     <div>
+      <figure>
        <img src="./img/hand_concept.png" alt="HAND Condept"  style="width:800px;"><br>
        <center><figcaption>Ilustrasi konsep HAND</figcaption></center>
-      </a>
+      </figure>
     </div>
   </body>
 </html>
