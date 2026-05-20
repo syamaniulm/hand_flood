@@ -99,8 +99,6 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   </body>
 </html>
 
-<br>
-
 ### Persyaratan
 
 Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
