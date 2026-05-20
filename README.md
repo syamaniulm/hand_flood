@@ -8,7 +8,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 
 <html>
   <body>
-    <div class="center-text">
+    <div>
        <img src="./img/flood_depth_measurement.png" alt="Flood Depth Measurement Illustration"  style="width:800px;"><br>
        <figcaption>Ilustrasi pengukuran titik koordinat dan kedalaman banjir di lapangan</figcaption>
       </a>
@@ -22,7 +22,7 @@ Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest 
   <body>
     <div>
        <img src="./img/hand_concept.png" alt="HAND Condept"  style="width:800px;"><br>
-       <center><figcaption>Ilustrasi konsep HAND</figcaption></center>
+       <figcaption>Ilustrasi konsep HAND</figcaption>
       </a>
     </div>
   </body>
@@ -69,7 +69,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flood_depth_output.png" alt="Flood Depth Output"  style="width:800px;"><br>
-       <center><figcaption>Estimasi sebaran kedalaman genangan banjir</figcaption></center>
+       <figcaption>Estimasi sebaran kedalaman genangan banjir</figcaption>
       </a>
     </div>
   </body>
@@ -79,7 +79,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flood_polygon_output.png" alt="Flood Polygon Output"  style="width:800px;"><br>
-       <center><figcaption>Poligon (shapefile) estimasi area tergenang banjir</figcaption></center>
+       <figcaption>Poligon (shapefile) estimasi area tergenang banjir</figcaption>
       </a>
     </div>
   </body>
@@ -89,7 +89,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flood_area_table.png" alt="Flood Area Table"  style="width:800px;"><br>
-       <center><figcaption>Tabel luas genangan banjir untuk setiap desa/kelurahan</figcaption></center>
+       <figcaption>Tabel luas genangan banjir untuk setiap desa/kelurahan</figcaption>
       </a>
     </div>
   </body>
