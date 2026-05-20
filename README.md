@@ -21,14 +21,12 @@ Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest 
 <html>
   <body>
     <div>
-       <img src="./img/hand_concept.png" alt="HAND Condept"  style="width:800px;">
-       <figcaption>Ilustrasi konsep HAND</figcaption>
+       <img src="./img/hand_concept.png" alt="HAND Condept"  style="width:800px;"><br>
+       <center><figcaption>Ilustrasi konsep HAND</figcaption></center>
       </a>
     </div>
   </body>
 </html>
-
-Ilustrasi Konsep HAND<br>
 
 Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi dan memetakan sebaran kedalaman genangan banjir secara cepat pada suatu Catchment Area (CA).<br>
 
