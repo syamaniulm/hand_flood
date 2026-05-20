@@ -8,7 +8,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 
 <html>
   <body>
-    <div>
+    <div class="center-text">
        <img src="./img/flood_depth_measurement.png" alt="Flood Depth Measurement Illustration"  style="width:800px;"><br>
        <center><figcaption>Ilustrasi pengukuran titik koordinat dan kedalaman banjir di lapangan</figcaption></center>
       </a>
@@ -21,10 +21,9 @@ Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest 
 <html>
   <body>
     <div>
-      <figure>
        <img src="./img/hand_concept.png" alt="HAND Condept"  style="width:800px;"><br>
        <center><figcaption>Ilustrasi konsep HAND</figcaption></center>
-      </figure>
+      </a>
     </div>
   </body>
 </html>
