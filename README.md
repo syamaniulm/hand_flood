@@ -22,7 +22,7 @@ Dengan mengintegrasikan antara parameter topografis, yaitu Height Above Nearest 
   <body>
     <div>
        <img src="./img/hand_concept.png" alt="HAND Condept"  style="width:800px;"><br>
-       <figcaption>Ilustrasi konsep HAND</figcaption>
+       <figcaption><i>Ilustrasi konsep HAND</i></figcaption>
       </a>
     </div>
   </body>
@@ -69,7 +69,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flood_depth_output.png" alt="Flood Depth Output"  style="width:800px;"><br>
-       <figcaption>Estimasi sebaran kedalaman genangan banjir</figcaption>
+       <figcaption><i>Estimasi sebaran kedalaman genangan banjir</i></figcaption>
       </a>
     </div>
   </body>
@@ -79,7 +79,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flood_polygon_output.png" alt="Flood Polygon Output"  style="width:800px;"><br>
-       <figcaption>Poligon (shapefile) estimasi area tergenang banjir</figcaption>
+       <figcaption><i>Poligon (shapefile) estimasi area tergenang banjir</i></figcaption>
       </a>
     </div>
   </body>
@@ -89,7 +89,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flood_area_table.png" alt="Flood Area Table"  style="width:800px;"><br>
-       <figcaption>Tabel luas genangan banjir untuk setiap desa/kelurahan</figcaption>
+       <figcaption><i>Tabel luas genangan banjir untuk setiap desa/kelurahan</i></figcaption>
       </a>
     </div>
   </body>
