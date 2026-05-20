@@ -68,35 +68,32 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
 <html>
   <body>
     <div>
-       <img src="./img/flood_depth_output.png" alt="Flood Depth Output"  style="width:800px;">
+       <img src="./img/flood_depth_output.png" alt="Flood Depth Output"  style="width:800px;"><br>
+       <center><figcaption>Estimasi sebaran kedalaman genangan banjir</figcaption></center>
       </a>
     </div>
   </body>
 </html>
-
-Estimasi sebaran kedalaman genangan banjir<br>
 
 <html>
   <body>
     <div>
-       <img src="./img/flood_polygon_output.png" alt="Flood Polygon Output"  style="width:800px;">
+       <img src="./img/flood_polygon_output.png" alt="Flood Polygon Output"  style="width:800px;"><br>
+       <center><figcaption>Poligon (shapefile) estimasi area tergenang banjir</figcaption></center>
       </a>
     </div>
   </body>
 </html>
-
-Poligon (shapefile) estimasi area tergenang banjir<br>
 
 <html>
   <body>
     <div>
-       <img src="./img/flood_area_table.png" alt="Flood Area Table"  style="width:800px;">
+       <img src="./img/flood_area_table.png" alt="Flood Area Table"  style="width:800px;"><br>
+       <center><figcaption>Tabel luas genangan banjir untuk setiap desa/kelurahan</figcaption></center>
       </a>
     </div>
   </body>
 </html>
-
-Tabel luas genangan banjir untuk setiap desa/kelurahan<br>
 
 ### Persyaratan
 
