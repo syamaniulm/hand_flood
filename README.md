@@ -9,8 +9,8 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 <html>
   <body>
     <div>
-       <img src="./img/flood_depth_measurement.png" alt="Flood Depth Measurement Illustration"  style="width:800px;">
-       <figcaption>Ilustrasi pengukuran koortindat dan kedalaman banjir di lapangan</figcaption>
+       <img src="./img/flood_depth_measurement.png" alt="Flood Depth Measurement Illustration"  style="width:800px;"><br>
+       <center><figcaption>Ilustrasi pengukuran koortindat dan kedalaman banjir di lapangan</figcaption></center>
       </a>
     </div>
   </body>
