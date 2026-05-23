@@ -99,6 +99,90 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   </body>
 </html>
 
+<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/flooded_population.png" alt="Flooded Population"  style="width:800px;"><br>
+       <figcaption><i>Estimasi penduduk terdampak banjir</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
+
+<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/flooded_population_table.png" alt="Flooded Population Table"  style="width:800px;"><br>
+       <figcaption><i>Tabel jumlah penduduk terdampak banjir untuk setiap desa/kelurahan</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
+
+<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/flooded_buildings.png" alt="Flooded Buildings"  style="width:800px;"><br>
+       <figcaption><i>Estimasi bangunan terdampak banjir</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
+
+<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/flooded_buildings_table.png" alt="Flooded Buildings Table"  style="width:800px;"><br>
+       <figcaption><i>Tabel jumlah bangunan terdampak banjir untuk setiap desa/kelurahan</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
+
+<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/flooded_landcover.png" alt="Flooded Landcover"  style="width:800px;"><br>
+       <figcaption><i>Estimasi penutupan lahan terdampak banjir</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
+
+<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/flooded_landcover_table.png" alt="Flooded Landcover Table"  style="width:800px;"><br>
+       <figcaption><i>Tabel penutupan lahan terdampak banjir</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
+
+<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/landcover_pie_chart.png" alt="Landcover Pie Chart"  style="width:800px;"><br>
+       <figcaption><i>Grafik persentase penutupan lahan terdampak banjir</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
+
 ### Persyaratan
 
 Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
