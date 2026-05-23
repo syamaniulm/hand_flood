@@ -209,7 +209,7 @@ Untuk akurasi estimasi dampak banjir, tentu saja idealnya data populasi penduduk
 
 ### Kontribusi SDGs
 
-html>
+<html>
   <body>
     <div class="image-container">
       <img src="./img/sdg1.png" alt="SDG 1", style="width:100px;">
