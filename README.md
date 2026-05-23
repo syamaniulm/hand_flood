@@ -206,3 +206,16 @@ Untuk akurasi estimasi dampak banjir, tentu saja idealnya data populasi penduduk
 
 1. Penggunaan HAND di dalam dokumen resmi wajib mengutip literatur ini: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599">https://www.sciencedirect.com/science/article/abs/pii/S0022169411002599</a>
 2. Penggunaan FABDEM di dalam dokumen resmi wajib mengutip literatur ini: <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac4d4f">https://iopscience.iop.org/article/10.1088/1748-9326/ac4d4f</a>
+
+### Kontribusi SDGs
+
+html>
+  <body>
+    <div class="image-container">
+      <img src="./img/sdg1" alt="SDG 1", style="width:100px;">
+      <img src="./img/sdg11" alt="SDG 11", style="width:100px;">
+      <img src="./img/sdg13" alt="SDG 13", style="width:100px;">
+      <img src="./img/sdg15" alt="SDG 15", style="width:100px;">
+    </div>
+  </body>
+</html>
