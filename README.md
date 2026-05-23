@@ -1,8 +1,8 @@
-<a target="_blank" href="https://colab.research.google.com/github/syamaniulm/hand_flood/blob/main/Hand_Based_Flood_Depth_Modeling_v1.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/syamaniulm/hand_flood/blob/main/Hand_Based_Flood_Depth_Modeling_v2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# Estimasi Cepat Sebaran Genangan Banjir
+# Estimasi Cepat Sebaran dan Dampak Banjir
 
 Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman genangan banjir pada suatu titik koordinat, sampai dimanakah kira-kira sebaran genangannya? Dan seperti apa sebaran kedalamannya?<br>
 
@@ -57,7 +57,7 @@ Raster $FDND$ akan memiliki nilai yang seragam (satu nilai) untuk setiap CA. Jik
 
 ## Petunjuk Penggunaan
 
-Jalankan file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Hand_Based_Flood_Depth_Modeling_v1.ipynb">```Hand_Based_Flood_Depth_Modeling_v1.ipynb```</a> via Google Colab. Sumber data lapangan harus berisi data koordinat dalam lintang bujur, dan data kedalaman genangan banjir untuk setiap koordinat dalam satuan meter. Data dibuat dalam bentuk tabel dan disimpan dalam format CSV. Karena kode program disiapkan untuk dijalankan menggunakan Google Colab, maka file CSV harus disimpan di dalam Google Drive. Jika kode program dijalankan menggunakan Jupyter Lab atau VS Code, maka harus ada penyesuaian pada beberapa bagian kode. Ikuti format tabel yang dicontohkan pada file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Flood_Locations.csv">```Flood_Locations.csv```</a>.<br>
+Jalankan file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Hand_Based_Flood_Depth_Modeling_v2.ipynb">```Hand_Based_Flood_Depth_Modeling_v1.ipynb```</a> via Google Colab. Sumber data lapangan harus berisi data koordinat dalam lintang bujur, dan data kedalaman genangan banjir untuk setiap koordinat dalam satuan meter. Data dibuat dalam bentuk tabel dan disimpan dalam format CSV. Karena kode program disiapkan untuk dijalankan menggunakan Google Colab, maka file CSV harus disimpan di dalam Google Drive. Jika kode program dijalankan menggunakan Jupyter Lab atau VS Code, maka harus ada penyesuaian pada beberapa bagian kode. Ikuti format tabel yang dicontohkan pada file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Flood_Locations.csv">```Flood_Locations.csv```</a>.<br>
 
 Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal degree, ```Lat``` yang berisi data lintang dalam decimal degree, dan ```Depth``` yang berisi data kedalaman banjir dalam satuan meter. Format penulisan huruf besar dan kecil untuk nama-nama kolom ini harus persis sebagaimana contoh. Jika ada perubahan format penulisan, maka harus ada penyesuaian pada beberapa bagian kode.<br>
 
