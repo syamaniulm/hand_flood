@@ -61,9 +61,9 @@ Jalankan file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Hand_B
 
 Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal degree, ```Lat``` yang berisi data lintang dalam decimal degree, dan ```Depth``` yang berisi data kedalaman banjir dalam satuan meter. Format penulisan huruf besar dan kecil untuk nama-nama kolom ini harus persis sebagaimana contoh. Jika ada perubahan format penulisan, maka harus ada penyesuaian pada beberapa bagian kode.<br>
 
-Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Semakin kecil luasan CA, hasil estimasi akan semakin teliti. Misalnya 25k akan lebih teliti dibanding 50k. Akan tetapi, semakin teliti luasan CA yang digunakan, konsekuensinya akan semakin banyak titik-titik banjir dari lapangan diperlukan. Sebab setiap wilayah CA sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
+Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Semakin kecil luasan CA, hasil estimasi akan semakin teliti. Misalnya 25k akan lebih teliti dibanding 50k. Akan tetapi, semakin teliti luasan CA yang digunakan, konsekuensinya akan semakin banyak titik-titik banjir dari lapangan diperlukan. Sebab setiap wilayah CA sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.<br>
 
-### Contoh Output
+### Contoh Output Estimasi Sebaran Genangan Banjir
 
 <html>
   <body>
@@ -100,6 +100,12 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
 </html>
 
 <br>
+
+Selain estimasi sebaran genangan banjir, kode program yang dikembangkan juga dapat mengestimasi dampak banjir. Yaitu dampak terhadap penduduk, bangunan, dan penutupan lahan. Data geospasial populasi penduduk diambil dari WorldPop Global Population Data 2015-2030 (<a href="https://gee-community-catalog.org/projects/worldpop/">https://gee-community-catalog.org/projects/worldpop/</a>), data geospasial bangunan diambil dari Global Google-Microsoft Open Buildings Dataset (<a href="https://gee-community-catalog.org/projects/global_buildings/">https://gee-community-catalog.org/projects/global_buildings/</a>), dan data penutupan lahan diambil dari data geospasial Kementerian Lingkungan Hidup dan Kehutanan (KLHK).<br>
+
+Untuk akurasi estimasi dampak banjir, tentu saja idealnya data populasi penduduk, data bangunan, dan data penutupan lahan, waktunya harus sama dengan waktu kejadian banjir. Dan jika tersedia data populasi penduduk dan data geospasial lokasi bangunan yang lebih akurat hasil survey lapangan, tentu saja sangat direkomendasikan untuk digunakan, sebagai pengganti data WorldPop Global Population Data 2015-2030 dan Global Google-Microsoft Open Buildings Dataset. Khusus untuk data geospasial penutupan lahan, Anda wajib menyediakan sendiri sesuai wilayah yang tergenang banjir. Shapefile penutupan lahan harus diunggah ke dalam Google Drive.
+
+### Contoh Output Estimasi Dampak Banjir
 
 <html>
   <body>
