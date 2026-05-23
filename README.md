@@ -164,7 +164,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
 <html>
   <body>
     <div>
-       <img src="./img/flooded_landcover_table.png" alt="Flooded Landcover Table"  style="width:500px;"><br>
+       <img src="./img/flooded_landcover_table.png" alt="Flooded Landcover Table"  style="width:400px;"><br>
        <figcaption><i>Tabel estimasi luas penutupan lahan terdampak banjir</i></figcaption>
       </a>
     </div>
@@ -176,7 +176,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
 <html>
   <body>
     <div>
-       <img src="./img/landcover_pie_chart.png" alt="Landcover Pie Chart"  style="width:800px;"><br>
+       <img src="./img/landcover_pie_chart.png" alt="Landcover Pie Chart"  style="width:400px;"><br>
        <figcaption><i>Grafik persentase penutupan lahan terdampak banjir</i></figcaption>
       </a>
     </div>
