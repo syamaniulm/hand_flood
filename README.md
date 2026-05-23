@@ -93,7 +93,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flood_area_table.png" alt="Flood Area Table"  style="width:800px;"><br>
-       <figcaption><i>Tabel luas genangan banjir untuk setiap desa/kelurahan</i></figcaption>
+       <figcaption><i>Tabel estimasi luas genangan banjir untuk setiap desa/kelurahan</i></figcaption>
       </a>
     </div>
   </body>
@@ -117,7 +117,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flooded_population_table.png" alt="Flooded Population Table"  style="width:800px;"><br>
-       <figcaption><i>Tabel jumlah penduduk terdampak banjir untuk setiap desa/kelurahan</i></figcaption>
+       <figcaption><i>Tabel estimasi jumlah penduduk terdampak banjir untuk setiap desa/kelurahan</i></figcaption>
       </a>
     </div>
   </body>
@@ -141,7 +141,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
   <body>
     <div>
        <img src="./img/flooded_buildings_table.png" alt="Flooded Buildings Table"  style="width:800px;"><br>
-       <figcaption><i>Tabel jumlah bangunan terdampak banjir untuk setiap desa/kelurahan</i></figcaption>
+       <figcaption><i>Tabel estimasi jumlah bangunan terdampak banjir untuk setiap desa/kelurahan</i></figcaption>
       </a>
     </div>
   </body>
@@ -164,8 +164,8 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
 <html>
   <body>
     <div>
-       <img src="./img/flooded_landcover_table.png" alt="Flooded Landcover Table"  style="width:800px;"><br>
-       <figcaption><i>Tabel penutupan lahan terdampak banjir</i></figcaption>
+       <img src="./img/flooded_landcover_table.png" alt="Flooded Landcover Table"  style="width:500px;"><br>
+       <figcaption><i>Tabel estimasi luas penutupan lahan terdampak banjir</i></figcaption>
       </a>
     </div>
   </body>
