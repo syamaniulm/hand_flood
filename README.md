@@ -185,7 +185,8 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (C
 
 ### Persyaratan
 
-Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
+1. Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
+2. Diperlukan pengetahuan dasar pemrograman menggunakan Bahasa Python dan Google Earth Engine.
 
 
 ### Penafian
