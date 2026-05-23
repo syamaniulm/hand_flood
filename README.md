@@ -212,10 +212,10 @@ Untuk akurasi estimasi dampak banjir, tentu saja idealnya data populasi penduduk
 <html>
   <body>
     <div class="image-container">
-      <img src="./img/sdg1.png" alt="SDG 1", style="width:100px;">
-      <img src="./img/sdg11.png" alt="SDG 11", style="width:100px;">
-      <img src="./img/sdg13.png" alt="SDG 13", style="width:100px;">
-      <img src="./img/sdg15.png" alt="SDG 15", style="width:100px;">
+      <img src="./img/sdg1.png" alt="SDG 1", style="width:60px;">
+      <img src="./img/sdg11.png" alt="SDG 11", style="width:60px;">
+      <img src="./img/sdg13.png" alt="SDG 13", style="width:60px;">
+      <img src="./img/sdg15.png" alt="SDG 15", style="width:60px;">
     </div>
   </body>
 </html>
