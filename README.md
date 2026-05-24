@@ -28,9 +28,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
   </body>
 </html>
 
-<br>HAND merupakan ketinggian suatu titik dari drainase/sungai terdekat. Dengan kata lain, HAND merupakan "elevasi lokal" yang titik nolnya adalah sungai terdekat. HAND biasa digunakan sebagai parameter untuk mengukur kedalaman banjir atau ancaman bahaya banjir akibat luapan air sungai.
-
-<br>Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi dan memetakan sebaran kedalaman genangan banjir secara cepat pada suatu Catchment Area (CA).<br>
+<br>HAND merupakan ketinggian suatu titik dari drainase/sungai terdekat. Dengan kata lain, HAND merupakan "elevasi lokal" yang titik nolnya adalah sungai terdekat. HAND biasa digunakan sebagai parameter untuk mengukur kedalaman banjir atau ancaman bahaya banjir akibat luapan air sungai. Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi dan memetakan sebaran kedalaman genangan banjir secara cepat pada suatu Catchment Area (CA).<br>
 
 ## Konsep Model
 
