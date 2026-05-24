@@ -63,10 +63,6 @@ Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal d
 
 Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, mengacu pada pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input.<br>
 
-Ukuran CA yang kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti. Akan tetapi, menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Sebab setiap wilayah CA yang tergenang banjir wajib sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
-
-<br>
-
 <html>
   <body>
     <div>
@@ -78,6 +74,8 @@ Ukuran CA yang kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat 
 </html>
 
 <br>
+
+Ukuran CA yang lebih kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti. Akan tetapi, menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Sebab setiap wilayah CA yang tergenang banjir wajib sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
 
 Ukuran CA yang lebih besar, misalnya 250k, akan menghasilkan estimasi yang kurang akurat dan kurang teliti, bahkan berpotensi akan over estimate. Akan tetapi, ukuran CA yang lebih besar mampu mengatasi kekurangan titik sampel kedalaman banjir dari lapangan. Bahkan dengan hanya 1 (satu) titik sampel kedalaman banjir untuk wilayah yang cukup luas. Pada praktiknya, pemilihan ukuran CA akan sangat ditentukan oleh informasi kondisi banjir di lapangan, misalnya genangan banjir tersebar sampai desa mana saja.<br>
 
