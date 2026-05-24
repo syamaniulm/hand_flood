@@ -75,7 +75,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan CA, ya
 
 <br>
 
-Ukuran CA yang lebih kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti. Akan tetapi, menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Sebab setiap wilayah CA yang tergenang banjir wajib sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
+Ukuran CA yang lebih kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti. Akan tetapi, ukuran CA yang kecil (detail) menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Sebab setiap wilayah CA yang tergenang banjir wajib sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.
 
 Ukuran CA yang lebih besar, misalnya 250k, akan menghasilkan estimasi yang kurang akurat dan kurang teliti, bahkan berpotensi akan over estimate. Akan tetapi, ukuran CA yang lebih besar mampu mengatasi kekurangan titik sampel kedalaman banjir dari lapangan. Bahkan dengan hanya 1 (satu) titik sampel kedalaman banjir untuk wilayah yang cukup luas. Pada praktiknya, pemilihan ukuran CA akan sangat ditentukan oleh informasi kondisi banjir di lapangan, misalnya genangan banjir tersebar sampai desa mana saja.<br>
 
