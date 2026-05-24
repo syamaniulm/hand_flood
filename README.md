@@ -67,7 +67,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan (CA), 
   <body>
     <div>
        <img src="./img/catchment_area_size.png" alt="Catchment Area Size"  style="width:800px;"><br>
-       <figcaption><i>Contoh Ukuran Catchment Area (CA) 5k dan 50k</i></figcaption>
+       <figcaption><i>Contoh ukuran Catchment Area (CA) 5k dan 50k</i></figcaption>
       </a>
     </div>
   </body>
