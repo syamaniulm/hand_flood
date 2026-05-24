@@ -61,7 +61,7 @@ Jalankan file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Hand_B
 
 Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal degree, ```Lat``` yang berisi data lintang dalam decimal degree, dan ```Depth``` yang berisi data kedalaman banjir dalam satuan meter. Format penulisan huruf besar dan kecil untuk nama-nama kolom ini harus persis sebagaimana contoh. Jika ada perubahan format penulisan, maka harus ada penyesuaian pada beberapa bagian kode.<br>
 
-Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, mengacu pada pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input.<br>
+Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan CA, yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, mengacu pada pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input.<br>
 
 <html>
   <body>
