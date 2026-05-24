@@ -28,6 +28,8 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
   </body>
 </html>
 
+<br>HAND merupakan ketinggian suatu titik dari drainase/sungai terdekat. Dengan kata lain, HAND merupakan "elevasi lokal" yang titik nolnya adalah sungai terdekat. HAND biasa digunakan sebagai parameter untuk mengukur kedalaman banjir atau ancaman bahaya banjir akibat luapan air sungai.
+
 <br>Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi dan memetakan sebaran kedalaman genangan banjir secara cepat pada suatu Catchment Area (CA).<br>
 
 ## Konsep Model
@@ -67,7 +69,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan (CA), 
   <body>
     <div>
        <img src="./img/catchment_area_size.png" alt="Catchment Area Size"  style="width:800px;"><br>
-       <figcaption><i>Ukuran Catchment Area (CA)</i></figcaption>
+       <figcaption><i>Contoh Ukuran Catchment Area (CA) 5k dan 50k</i></figcaption>
       </a>
     </div>
   </body>
@@ -75,7 +77,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan (CA), 
 
 <br>
 
-Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, sesuai pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input. Ukuran CA yang kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti, akan tetapi menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Ukuran CA yang lebih besar, misalnya, akan menghasilkan estimasi yang kurang akurat dan kurang teliti, akan tetapi mampu mengatasi kekurangan titik sampel kedalaman banjir dari lapangan.<br>
+Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, mengacu pada pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input. Ukuran CA yang kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti, akan tetapi menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Ukuran CA yang lebih besar, misalnya, akan menghasilkan estimasi yang kurang akurat dan kurang teliti, akan tetapi mampu mengatasi kekurangan titik sampel kedalaman banjir dari lapangan.<br>
 
 ### Contoh Output Estimasi Sebaran Genangan Banjir
 
