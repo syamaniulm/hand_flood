@@ -75,7 +75,7 @@ Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan (CA), 
 
 <br>
 
-Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, mengacu pada pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input. Ukuran CA yang kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti, akan tetapi menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Ukuran CA yang lebih besar, misalnya 250k, akan menghasilkan estimasi yang kurang akurat dan kurang teliti, akan tetapi mampu mengatasi kekurangan titik sampel kedalaman banjir dari lapangan.<br>
+Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, mengacu pada pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input. Ukuran CA yang kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti, akan tetapi menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Ukuran CA yang lebih besar, misalnya 250k, akan menghasilkan estimasi yang kurang akurat dan kurang teliti, akan tetapi mampu mengatasi kekurangan titik sampel kedalaman banjir dari lapangan. Pada praktiknya, pemilihan ukuran CA akan sangat ditentukan oleh informasi kondisi banjir di lapangan, misalnya genangan banjir tersebar sampai desa mana saja.<br>
 
 ### Contoh Output Estimasi Sebaran Genangan Banjir
 
