@@ -192,7 +192,7 @@ Untuk akurasi estimasi dampak banjir, tentu saja idealnya data populasi penduduk
 ### Persyaratan
 
 1. Anda harus memiliki akun Google Earth Engine untuk menjalankan kode program ini.
-2. Diperlukan pengetahuan dasar pemrograman menggunakan Bahasa Python dan Google Earth Engine.
+2. Pengetahuan dasar pemrograman menggunakan Bahasa Python dan Google Earth Engine akan sangat membantu.
 
 
 ### Penafian
