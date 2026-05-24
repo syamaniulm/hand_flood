@@ -61,7 +61,21 @@ Jalankan file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Hand_B
 
 Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal degree, ```Lat``` yang berisi data lintang dalam decimal degree, dan ```Depth``` yang berisi data kedalaman banjir dalam satuan meter. Format penulisan huruf besar dan kecil untuk nama-nama kolom ini harus persis sebagaimana contoh. Jika ada perubahan format penulisan, maka harus ada penyesuaian pada beberapa bagian kode.<br>
 
-Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ketelitian/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Semakin kecil luasan CA, hasil estimasi akan semakin teliti. Misalnya 25k akan lebih teliti dibanding 50k. Akan tetapi, semakin teliti luasan CA yang digunakan, konsekuensinya akan semakin banyak titik-titik banjir dari lapangan diperlukan. Sebab setiap wilayah CA sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.<br>
+Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan (CA), yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Semakin kecil luasan CA, hasil estimasi akan semakin teliti. Misalnya 25k akan lebih teliti dibanding 50k. Akan tetapi, semakin teliti luasan CA yang digunakan, konsekuensinya akan semakin banyak titik-titik banjir dari lapangan diperlukan. Sebab setiap wilayah CA sekurang-kurangnya terdapat 1 (satu) titik hasil pengukuran kedalaman banjir. Jika suatu CA tidak terdapat titik sampel pengukuran kedalaman banjir, maka sebaran genangan dan kedalaman banjir di dalam CA tersebut tidak dapat diestimasi.<br>
+
+<html>
+  <body>
+    <div>
+       <img src="./img/catchment_area_size.png" alt="Catchment Area Size"  style="width:800px;"><br>
+       <figcaption><i>Ukuran Catchment Area (CA)</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
+
+<br>
+
+Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, sesuai pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input. Ukuran CA yang kecil, misalnya 5k, akan menghasilkan estimasi yang lebih akurat dan lebih teliti, akan tetapi menuntut lebih banyak titik sampel kedalaman banjir dari lapangan. Ukuran CA yang lebih besar, misalnya, akan menghasilkan estimasi yang kurang akurat dan kurang teliti, akan tetapi mampu mengatasi kekurangan titik sampel kedalaman banjir dari lapangan.<br>
 
 ### Contoh Output Estimasi Sebaran Genangan Banjir
 
