@@ -21,7 +21,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 <html>
   <body>
     <div>
-       <img src="./img/hand_concept.png" alt="HAND Condept"  style="width:800px;"><br>
+       <img src="./img/hand_concept.png" alt="HAND Concept"  style="width:800px;"><br>
        <figcaption><i>Ilustrasi konsep HAND</i></figcaption>
       </a>
     </div>
@@ -32,25 +32,15 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 
 ## Konsep Model
 
-Formula yang digunakan untuk estimasi sebaran kedalaman banjir (F) untuk setiap CA adalah sebagai berikut:<br>
-
-$$F = FND - HAND$$
-
-Dimana:<br>
-
-$F$ = Flood Depth, yaitu raster hasil estimasi kedalaman genangan banjir<br>
-$FND$ = Flood Depth from Nearest Drainage, yaitu raster kedalaman banjir yang diukur dari permukaan sungai terdekat<br>
-$HAND$ = Raster HAND<br>
-
-$FND$ merupakan raster hasil ekstrapolasi nilai maksimum GFND untuk setiap CA:<br>
-
-$$GFND = arg max(GF + GFH)$$
-
-Dimana:<br>
-
-$GFND$ = Ground Flood Depth from Nearest Drainage, yaitu kedalaman banjir hasil pengukuran lapangan di tambah nilai HAND di titik itu<br> 
-$GF$ = Ground Flood Depth, yaitu data titik koordinat dan kedalaman genangan banjir hasil pengukuran lapangan<br>
-$GFH$ = Ground Flood HAND, yaitu nilai HAND pada titik koordinat kedalaman genangan banjir<br>
+<html>
+  <body>
+    <div>
+       <img src="./img/model_concept.png" alt="Model Concept"  style="width:800px;"><br>
+       <figcaption><i>Ilustrasi konsep model</i></figcaption>
+      </a>
+    </div>
+  </body>
+</html>
 
 ## Petunjuk Penggunaan
 
