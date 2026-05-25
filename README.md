@@ -32,28 +32,27 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 
 ## Konsep Model
 
-Formula yang digunakan untuk estimasi sebaran kedalaman banjir untuk setiap CA adalah sebagai berikut:<br>
+Formula yang digunakan untuk estimasi sebaran kedalaman banjir (F) untuk setiap CA adalah sebagai berikut:<br>
 
-$$FD = FDND - HAND$$
+$$F = FND - HAND$$
 
 Dimana:<br>
 
-$FD$ = Flood Depth, yaitu raster hasil estimasi kedalaman genangan banjir<br>
-$FDND$ = Flood Depth from Nearest Drainage, yaitu raster kedalaman banjir yang diukur dari permukaan sungai terdekat<br>
+$F$ = Flood Depth, yaitu raster hasil estimasi kedalaman genangan banjir<br>
+$FND$ = Flood Depth from Nearest Drainage, yaitu raster kedalaman banjir yang diukur dari permukaan sungai terdekat<br>
 $HAND$ = Raster HAND<br>
 
 Dan:<br>
 
-$FDND$ merupakan hasil rasterisasi untuk setiap CA dari:<br>
+$FND$ merupakan raster hasil ekstrapolasi nilai maksimum GFND untuk setiap CA:<br>
 
-$$arg max(GFD + HGFD)$$
+$$GFND = arg max(GF + GFH)$$
 
 Dimana:<br>
 
-$GFD$ = Ground Flood Depth, yaitu data titik koordinat dan kedalaman genangan banjir hasil pengukuran lapangan<br>
-$HGFD$ = HAND at Ground Flood Depth, yaitu nilai HAND pada titik koordinat kedalaman genangan banjir<br>
-
-Raster $FDND$ akan memiliki nilai yang seragam (satu nilai) untuk setiap CA. Jika pada suatu CA terdapat lebih dari satu titik pengukuran, maka yang akan diambil adalah satu titik terdalam (maksimum) kedalaman banjir yang diukur dari permukaan sungai terdekat.<br>
+$GFND$ = Ground Flood Depth from Nearest Drainage, yaitu kedalaman banjir hasil pengukuran lapangan di tambah nilai HAND di titik itu<br> 
+$GF$ = Ground Flood Depth, yaitu data titik koordinat dan kedalaman genangan banjir hasil pengukuran lapangan<br>
+$GFH$ = Ground Flood HAND, yaitu nilai HAND pada titik koordinat kedalaman genangan banjir<br>
 
 ## Petunjuk Penggunaan
 
