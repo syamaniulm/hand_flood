@@ -42,8 +42,6 @@ $F$ = Flood Depth, yaitu raster hasil estimasi kedalaman genangan banjir<br>
 $FND$ = Flood Depth from Nearest Drainage, yaitu raster kedalaman banjir yang diukur dari permukaan sungai terdekat<br>
 $HAND$ = Raster HAND<br>
 
-Dan:<br>
-
 $FND$ merupakan raster hasil ekstrapolasi nilai maksimum GFND untuk setiap CA:<br>
 
 $$GFND = arg max(GF + GFH)$$
