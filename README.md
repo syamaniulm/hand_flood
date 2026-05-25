@@ -35,9 +35,7 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 <html>
   <body>
     <div>
-       <img src="./img/model_concept.png" alt="Model Concept"  style="width:800px;"><br>
-       <figcaption><i>Ilustrasi konsep model</i></figcaption>
-      </a>
+       <img src="./img/model_concept.png" alt="Model Concept"  style="width:800px;">
     </div>
   </body>
 </html>
