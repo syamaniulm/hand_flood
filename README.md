@@ -30,23 +30,13 @@ Pernahkah Anda bertanya atau membayangkan? Ketika ada yang mengukur kedalaman ge
 
 <br>HAND merupakan ketinggian suatu titik dari drainase/sungai terdekat. Dengan kata lain, HAND merupakan "elevasi lokal" yang titik nolnya adalah sungai terdekat. HAND biasa digunakan sebagai parameter untuk mengukur kedalaman banjir atau ancaman bahaya banjir akibat luapan air sungai. Secara singkat, dengan menggunakan data HAND, dan sudah tersedia data koordinat dan kedalaman banjir eksak dari lapangan, kita dapat mengestimasi dan memetakan sebaran kedalaman genangan banjir secara cepat pada suatu Catchment Area (CA).<br>
 
-## Konsep Model
-
-<html>
-  <body>
-    <div>
-       <img src="./img/model_concept.png" alt="Model Concept"  style="width:800px;">
-    </div>
-  </body>
-</html>
-
 ## Petunjuk Penggunaan
 
 Jalankan file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Hand_Based_Flood_Depth_Modeling_v2.ipynb">```Hand_Based_Flood_Depth_Modeling_v2.ipynb```</a> via Google Colab. Sumber data lapangan harus berisi data koordinat dalam lintang bujur, dan data kedalaman genangan banjir untuk setiap koordinat dalam satuan meter. Data dibuat dalam bentuk tabel dan disimpan dalam format CSV. Karena kode program disiapkan untuk dijalankan menggunakan Google Colab, maka file CSV harus disimpan di dalam Google Drive. Jika kode program dijalankan menggunakan Jupyter Lab atau VS Code, maka harus ada penyesuaian pada beberapa bagian kode. Ikuti format tabel yang dicontohkan pada file <a href="https://github.com/syamaniulm/hand_flood/blob/main/Flood_Locations.csv">```Flood_Locations.csv```</a>.<br>
 
 Di dalam tabel wajib ada kolom ```Long``` yang berisi data bujur dalam decimal degree, ```Lat``` yang berisi data lintang dalam decimal degree, dan ```Depth``` yang berisi data kedalaman banjir dalam satuan meter. Format penulisan huruf besar dan kecil untuk nama-nama kolom ini harus persis sebagaimana contoh. Jika ada perubahan format penulisan, maka harus ada penyesuaian pada beberapa bagian kode.<br>
 
-Data CA dan HAND disediakan dalam 6 (enam) opsi berdasarkan ukuran/luasan CA, yaitu 5k, 10k, 25k, 50k, 100k, dan 250k. Harap diperhatikan bahwa unit 5k, 25k, 50k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, mengacu pada pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input.<br>
+Data CA dan HAND disediakan dalam 7 (tujuh) opsi berdasarkan ukuran/luasan CA, yaitu, 1k, 5k, 10k, 25k, 50k, 100k, dan 250k. Harap diperhatikan bahwa unit 1k, 5k, 25k, dan seterusnya, bukan lah skala pemetaan. Melainkan luasan atau jumlah pixel minimum untuk CA terkecil. 5k berarti luasan minimum CA adalah 5.000 pixel, mengacu pada pixel data Digital Elevation Model (DEM) yang dijadikan sebagai input.<br>
 
 <html>
   <body>
